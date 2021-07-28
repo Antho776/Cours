@@ -1,0 +1,1 @@
+alert("Etes-vous certain de vouloir suivre ce cours?");
